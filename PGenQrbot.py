@@ -5,7 +5,7 @@ import time
 import qrcode
 from io import BytesIO
 
-token = "6010556651:AAHmWV5HtzjOVyrEuyhHeBeg8os-EKc9DHw"
+token = "Your Token"
 bot = telebot.TeleBot(token)
 
 
